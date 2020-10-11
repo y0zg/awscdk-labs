@@ -1,5 +1,7 @@
 # awscdk-labs
 
+Documentation: https://github.com/y0zg/docs/blob/master/aws_cdk.md
+
 ```
 .
 ├── app.py
